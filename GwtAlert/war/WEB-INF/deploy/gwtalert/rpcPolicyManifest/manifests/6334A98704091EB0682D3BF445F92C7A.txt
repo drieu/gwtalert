@@ -1,0 +1,2 @@
+serviceClass: fr.dr.gwt.alert.client.GreetingService
+path: 52AF58A9A627E09C8F55325918119793.gwt.rpc
